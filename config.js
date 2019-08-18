@@ -1,0 +1,1 @@
+export default API='https://api.iotutorials.com'
